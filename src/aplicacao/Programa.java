@@ -12,7 +12,7 @@ public class Programa {
 			Scanner sc = new Scanner(System.in);
 			Rent[] vect = new Rent[10];
 			
-			System.out.print("How many rooms will be rented? ");
+			System.out.print("How many rooms will be rented friend? ");
 			int n = sc.nextInt();
 			for (int i=1; i<=n; i++) {
 				System.out.println();
