@@ -28,7 +28,7 @@ public class Programa {
 			}
 
 			System.out.println();
-			System.out.println("New Busy rooms:");
+			System.out.println("Busy rooms:");
 
 			for (int i=0; i<10; i++) {
 				if (vect[i] != null) {
